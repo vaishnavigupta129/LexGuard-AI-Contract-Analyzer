@@ -1,0 +1,2 @@
+cd C:\Users\shivb\OneDrive\Desktop\legal-contract-analyzer
+npm start
